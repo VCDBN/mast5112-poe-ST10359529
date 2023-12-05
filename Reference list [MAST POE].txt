@@ -1,0 +1,9 @@
+Reference list:
+1. React native · learn once, write anywhere (no date) React Native RSS. 
+ available at: https://reactnative.dev/ (Accessed: 26 October 2023). 
+
+2. Navigation Prop Reference: React navigation (no date) React Navigation RSS. 
+Available at: https://reactnavigation.org/docs/navigation-prop/ (Accessed: 05 December 2023). 
+
+3. How to return values from second screen to first screen (2022) Stack Overflow. Available at: https://stackoverflow.com/questions/74266881/how-
+to-return-values-from-second-screen-to-first-screen (Accessed: 27 November 2023)
